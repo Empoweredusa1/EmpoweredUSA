@@ -1,2 +1,2 @@
-# EmpoweredUSA
-Website for Teachers of EmpoweredUSA
+# Empowered_USA
+1st paid website requested by client
